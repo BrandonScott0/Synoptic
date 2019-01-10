@@ -1,0 +1,26 @@
+{
+	"manifest_version": 2,
+	"name": "Brandon's Maze Game",
+	"version": "1.0",
+	"description": "Brandon's Maze Game",
+	"background": {
+		"persistent": false,
+		"scripts": [
+			"/Javascript/createPage.js"
+		]
+	},
+	"browser_action": {
+		"default_popup": ""
+	},
+	"icons": {
+		"128": "/images/icon.png",
+		"48": "/images/icon.png"
+	},
+	"permissions": [
+		"activeTab",
+		"management",
+		"storage",
+		"unlimitedStorage",
+		"tabs"
+	]
+}

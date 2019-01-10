@@ -1,0 +1,19 @@
+body{
+
+    overflow: hidden; /* HIDES BODY SCROLLBAR */
+    
+}
+
+.Coins{
+
+    width: 29px; /* SET WIDTH OF ALL ELEMENTS WITH CLASSNAME Coins */
+
+}
+
+.Enemy{
+
+    width: 39px; /* SET WIDTH OF ALL ELEMENTS WITH CLASSNAME Enemy */
+
+}
+
+
